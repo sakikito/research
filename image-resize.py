@@ -20,8 +20,8 @@ def get_write_dir_path():
 # 保存先を作成する
 get_write_dir_path()
 
-# 画像数(30) + 1
-image_num = 31
+# 画像数 + 1
+image_num = int(input("画像数: ")) + 1
 
 for i in range(1,image_num):
 
