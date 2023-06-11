@@ -4,7 +4,7 @@ import numpy as np #numpyをインポート
 
 # image
 # 画像数 + 1
-img_num = 5
+img_num = int(input("画像数: ")) + 1
 
 for i in range(1, img_num):
 
