@@ -4,6 +4,8 @@
 
 入力された木に関して、深さ優先探索をする。
 
+![tree-record](https://github.com/sakikito/research/assets/126849693/6cbcfd9b-20bb-4a72-83ea-827625d2b2a0)
+
 ### 木を入力する
 
 半角数字と空白で区切り、木を作成する。
@@ -15,6 +17,8 @@
 ## maze-dfs.py
 
 入力された迷路に関して、深さ優先探索をする。
+
+![maze-record](https://github.com/sakikito/research/assets/126849693/2058be19-306f-4c7d-9046-597700b17166)
 
 ### 行数を入力する
 
